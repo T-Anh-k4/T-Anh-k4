@@ -19,7 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🌐 Socials
+## 🌐 Where find me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/daotuananh.d/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dao_tuan_anh_/)
 
@@ -42,9 +42,6 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=T-Anh-K4&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=T-Anh-K4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
