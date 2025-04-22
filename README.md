@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Tuan+Anh&color=%23FF0000" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Tuan+Anh&color=%23FF0000" alt="Typing SVG" />
 </p>
 
