@@ -3,6 +3,9 @@
   <span style="color:#4F8A8B;">Hi, I'm <strong>Tuan Anh</strong></span>
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Tuan+Anh%2C+developer+%F0%9F%9A%80;I'm+learning+new+things+every+day!%F0%9F%98%8A" alt="Typing SVG" />
+</p>
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
