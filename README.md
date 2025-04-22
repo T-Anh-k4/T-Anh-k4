@@ -35,6 +35,10 @@
   </tr>
 </table>
 
+<br/>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=T-Anh-K4&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=T-Anh-K4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
