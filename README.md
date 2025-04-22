@@ -1,5 +1,7 @@
-<h1 align="center">Hi <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b.png" width="30" />, I'm <span style="color:#4F8A8B;">Tuan Anh</span></h1>
-
+<h1 align="center">
+  <img src="https://emojigraph.org/media/twitter/waving-hand_1f44b.png" width="40"/> 
+  <span style="color:#4F8A8B;">Hi, I'm <strong>Tuan Anh</strong></span>
+</h1>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/daotuananh.d/) 
