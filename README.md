@@ -30,10 +30,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=T-Anh-K4&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
     </td>
     <td>
-      <img src="[https://github-readme-streak-stats.herokuapp.com/?user=T-Anh-K4&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Anh-K4&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Anh-K4&theme=radical&hide_border=true&layout=compact" />
     </td>
   </tr>
 </table>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=T-Anh-K4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
