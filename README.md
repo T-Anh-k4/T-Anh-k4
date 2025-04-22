@@ -24,18 +24,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dao_tuan_anh_/)
 
 ## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=T-Anh-K4&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Anh-K4&theme=radical&hide_border=true&layout=compact" />
-    </td>
-  </tr>
-</table>
-
-
 <p align="center">
   <table>
     <tr>
@@ -48,7 +36,9 @@
     </tr>
   </table>
 </p>
+
 <br/>
+
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=T-Anh-K4&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
