@@ -1,3 +1,6 @@
+<h1 align="center">Hi <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b.png" width="30" />, I'm <span style="color:#4F8A8B;">Tuan Anh</span></h1>
+
+
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/daotuananh.d/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dao_tuan_anh_/)
